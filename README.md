@@ -34,3 +34,6 @@ Split the dataset for training and testing, train a machine learning model, and 
 
 Week 5: Visualization and Reporting
 Create visualizations to summarize insights from the data and model performance.
+
+# Important Links
+Link to scraped CSV dataset - [stats.csv](https://drive.google.com/file/d/1dbXNw6d2XM-5Dnyi7WybNUBImCROhaHh/view?usp=sharing)

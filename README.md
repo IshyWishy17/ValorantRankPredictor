@@ -20,8 +20,6 @@ After scraping all the data and creating the dataset comes training the model, a
 
 # Execution Plan
 
-Sure! Here’s a concise summary for each week:
-
 Week 1: Research and Data Collection Planning
 Research relevant player stats for rank prediction and devise a scraping strategy to collect data from player profiles and match histories.
 
@@ -32,7 +30,7 @@ Week 3: Data Cleaning and Preparation
 Clean the gathered dataset to handle missing values and duplicates, then conduct exploratory data analysis to understand feature distributions and correlations with rank.
 
 Week 4: Model Development
-Split the dataset for training and testing, train various machine learning models, and evaluate their performance to identify the best rank prediction approach.
+Split the dataset for training and testing, train a machine learning model, and evaluate their performance to identify the best rank prediction model.
 
 Week 5: Visualization and Reporting
-Create visualizations to summarize insights from the data and model performance, then compile a report detailing your methodology and findings.
+Create visualizations to summarize insights from the data and model performance.

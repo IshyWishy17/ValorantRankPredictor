@@ -37,3 +37,4 @@ Create visualizations to summarize insights from the data and model performance.
 
 # Important Links
 Link to scraped CSV dataset - [stats.csv](https://drive.google.com/file/d/1dbXNw6d2XM-5Dnyi7WybNUBImCROhaHh/view?usp=sharing)
+Link to YouTube video - [ValorantRankPredictor - MPCS 51046 - Intermediate Python Programming](https://www.youtube.com/watch?v=agdqvUUkbKQ)

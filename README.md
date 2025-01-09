@@ -1,10 +1,10 @@
 # ValorantRankPredictor
 
-VALORANT Rank predictor! VALORANT is a game that I enjoy and I’ve always wanted to do a project where I build a rank predictor (based on certain factors of your gameplay). The game offers a competitive mode where you compete for a rank (ELO-based system). Here are the ranks along with their distribution of players -
+VALORANT Rank predictor! VALORANT is a game that I once loved and I’ve always wanted to do a project where I build a rank predictor (based on certain factors of your gameplay). The game offers a competitive mode where you compete for a rank (ELO-based system). Here are the ranks along with their distribution of players -
 
 Source: Valorant Leaderboard - North America Competitive Ranked Rating for Episode 9 - Act 2
 
-Here is what a typical player profile looks like (showing mine as reference) -
+Here is what a typical player profile looks like (showing mine as a reference) -
 
 I basically want to be able to predict a player’s rank, given their stats as shown above. The stats include damage/round, K/D ratio, Headshot %, Win %, ACS, DD/Round, KAST, etc (I haven’t really decided which stats I will use yet). It’s important to know that people of higher ranks could have somewhat similar stats as people with lower ranks - (Ascendant > Platinum)
 

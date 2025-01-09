@@ -21,4 +21,4 @@ After scraping all the data and creating the dataset comes training the model, a
 # Important Links
 Link to scraped CSV dataset - [stats.csv](https://drive.google.com/file/d/1dbXNw6d2XM-5Dnyi7WybNUBImCROhaHh/view?usp=sharing)
 
-Link to YouTube video - [ValorantRankPredictor - MPCS 51046 - Intermediate Python Programming](https://www.youtube.com/watch?v=agdqvUUkbKQ)
+Link to YouTube video - [ValorantRankPredictor](https://www.youtube.com/watch?v=agdqvUUkbKQ)

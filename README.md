@@ -16,24 +16,7 @@ So how do I gather data on noob players like myself? Well, I make use of the fac
 
 You can clearly see that all the players' ranks are in the Platinum 3 - Diamond 2 range. So I just need to pick one seed player from every rank, and effectively carry out a Breadth-first search to find other players in the same rank! I can do so by pulling up the match history of every player and then I’ll eventually have enough players of each rank to add to my dataset.
 
-After scraping all the data and creating the dataset comes training the model, and deciding which features to use, the details of which will be decided soon! I will also do an analysis / breakdown of the average of each stat per rank, etc. as a way of visualisation. This will give a holistic view of what stats matter. So the project will include collecting all the data via scraping (no API to provide us with the results directly unfortuantely), the rank predictor plus basic visualization graphs stat-rank wise. A nice collection of insights will be presented.
-
-# Execution Plan
-
-Week 1: Research and Data Collection Planning
-Research relevant player stats for rank prediction and devise a scraping strategy to collect data from player profiles and match histories.
-
-Week 2: Data Scraping
-Implement a web scraping tool to gather data from top-ranked players and use a breadth-first search to collect stats from players in similar ranks.
-
-Week 3: Data Cleaning and Preparation
-Clean the gathered dataset to handle missing values and duplicates, then conduct exploratory data analysis to understand feature distributions and correlations with rank.
-
-Week 4: Model Development
-Split the dataset for training and testing, train a machine learning model, and evaluate their performance to identify the best rank prediction model.
-
-Week 5: Visualization and Reporting
-Create visualizations to summarize insights from the data and model performance.
+After scraping all the data and creating the dataset comes training the model, and deciding which features to use, the details of which will be decided soon! I will also do an analysis / breakdown of the average of each stat per rank, etc. as a way of visualisation. This will give a holistic view of what stats matter. So the project will include collecting all the data via scraping (no API to provide us with the results directly unfortuantely), the rank predictor plus basic visualization graphs stat-rank wise. A nice collection of insights is presented.
 
 # Important Links
 Link to scraped CSV dataset - [stats.csv](https://drive.google.com/file/d/1dbXNw6d2XM-5Dnyi7WybNUBImCROhaHh/view?usp=sharing)
